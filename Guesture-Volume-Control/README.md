@@ -19,11 +19,11 @@ Control your system volume using real-time hand gestures through your webcam. Th
 Python • Flask • OpenCV • MediaPipe • NumPy • Pycaw
 
 ---
-
-## ⚙️ Installation & Setup
+z
+## ⚙️ Installation & Setupz
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Gesture-Volume-Control-App.git
+git clone https://github.com/Abhigna2904/Gesture-Volume-Control-App
 cd Gesture-Volume-Control-App
 pip install -r requirements.txt
 python app.py
